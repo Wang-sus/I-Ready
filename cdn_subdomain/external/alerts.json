@@ -1,0 +1,15 @@
+caAlertCallback({
+  "alerts":
+  [
+    {
+    "alert":"",
+    "id":"05-02-2022-08-32-17",
+    "hidden":"true",
+    "isMaintenance":"true"
+    }
+  ],
+  "safariMobileCheck": {
+    "checkEnabled": true,
+    "checkProperties": ["orientation"]
+  }
+});
